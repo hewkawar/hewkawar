@@ -4,6 +4,12 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/758681611251744788)](https://discord.com/users/758681611251744788)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 📜 Mainly used Languages
 JavaScript, Java, TypeScript, Kotlin, HTML and CSS
 
