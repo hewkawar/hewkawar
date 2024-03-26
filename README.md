@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/758681611251744788)](https://discord.com/users/758681611251744788)
 <!--
 **hewkawar/hewkawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
