@@ -1,16 +1,37 @@
-### Hi there 👋
+# HewkawAr
+
+[![Github Views](https://komarev.com/ghpvc/?username=hewkawar)](https://github.com/hewkawar)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/758681611251744788)](https://discord.com/users/758681611251744788)
-<!--
-**hewkawar/hewkawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📜 Mainly used Languages
+JavaScript, Java, TypeScript, Kotlin, HTML and CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools I've used
+#### 💼Management Softwares
+- 📦Portainer
+- 🖥Docker
+#### 📚 Databases
+- MySQL
+
+## ⚒ Hobbies
+- 👨‍💻 Coding
+- 🛠️Managing Systems
+
+## 💖 Support My Work!
+- Truemonet Wallet: [tip.hewkawar.xyz](https://tip.hewkawar.xyz/)
+
+## 📬 Socials
+
+- Web: [hewkawar.xyz](https://www.hewkawar.xyz/)
+- YouTube: [HewkawAr](https://www.youtube.com/channel/UCtLQ0mmlg4jtvmL-NMmzvYQ)
+
+## 📊 My GitHub Stats
+
+<a href="https://github.com/hewkawar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewkawar&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
+</a>
+
+<a href="https://github.com/hewkawar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewkawar&theme=github_dark" height="230"/>
+</a>
