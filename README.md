@@ -11,7 +11,7 @@
 </picture>
 
 ## 📜 Mainly used Languages
-JavaScript, Java, TypeScript, Kotlin, HTML and CSS
+JavaScript, TypeScript, Java, Kotlin, HTML and CSS
 
 ## 🧰 Tools I've used
 #### 💼Management Softwares
@@ -19,6 +19,7 @@ JavaScript, Java, TypeScript, Kotlin, HTML and CSS
 - 🖥Docker
 #### 📚 Databases
 - MySQL
+- MongoDB
 
 ## ⚒ Hobbies
 - 👨‍💻 Coding
