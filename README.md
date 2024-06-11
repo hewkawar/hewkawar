@@ -26,11 +26,9 @@ JavaScript, TypeScript, Java, Kotlin, HTML and CSS
 - 🛠️Managing Systems
 
 ## 💖 Support My Work!
-- Truemonet Wallet: [tip.hewkawar.xyz](https://tip.hewkawar.xyz/)
+- Tip: [tip.hewkawar.xyz](https://tip.hewkawar.xyz/)
 
 ## 📬 Socials
-
-- Web: [hewkawar.xyz](https://www.hewkawar.xyz/)
 - YouTube: [HewkawAr](https://www.youtube.com/channel/UCtLQ0mmlg4jtvmL-NMmzvYQ)
 
 ## 📊 My GitHub Stats
