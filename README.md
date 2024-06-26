@@ -2,13 +2,21 @@
 
 [![Github Views](https://komarev.com/ghpvc/?username=hewkawar)](https://github.com/hewkawar)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/758681611251744788)](https://discord.com/users/758681611251744788)
+<p align="center">
+  <a href="https://discord.com/users/758681611251744788" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/758681611251744788" alt="hewkawar" /> </a>
+</p>
 
-<picture>
+<p align="center">
+    <a href="[https://discord.com/users/758681611251744788](https://github.com/hewkawar)" target="_blank" rel="noreferrer"><img align="center" src="https://streak-stats.demolab.com/?user=hewkawar&theme=dark" alt="hewkawar" /> </a>
+</p>
+
+<div align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hewkawar/hewkawar/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 ## 📜 Mainly used Languages
 JavaScript, TypeScript, Java, Kotlin, HTML and CSS
