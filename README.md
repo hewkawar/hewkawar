@@ -43,14 +43,14 @@ JavaScript, TypeScript, Java, Kotlin, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/hewkawar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewkawar&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewkawar&theme=github_dark" alt="HewkawAr's GitHub Stats" height="230"/>
   </a>
 
   <a href="https://github.com/hewkawar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewkawar&theme=github_dark" height="230"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewkawar&theme=github_dark" alt="HewkawAr's GitHub Stats" height="230"/>
   </a>
 
   <a href="https://github.com/hewkawar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hewkawar&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only" height="230"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hewkawar&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only" alt="HewkawAr's Wakatime" height="230"/>
   </a>
 </div>
