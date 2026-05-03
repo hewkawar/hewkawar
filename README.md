@@ -58,10 +58,10 @@ Discord Status
 ### My GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewkawar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&show_icons=true" alt="HewkawAr's GitHub Stats" height="230"/>
+  <img align="center" src="https://gh-stats.hewkawar.xyz/api?username=hewkawar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&show_icons=true" alt="HewkawAr's GitHub Stats" height="230"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hewkawar&stroke=ffffff&background=050505&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Commit Streak" height="230"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewkawar&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Language" height="230"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hewkawar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&show_icons=true" alt="HewkawAr's Wakatime" height="230"/>
+  <img align="center" src="https://gh-stats.hewkawar.xyz/api/top-langs/?username=hewkawar&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Language" height="230"/>
+  <img align="center" src="https://gh-stats.hewkawar.xyz/api/wakatime?username=hewkawar&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=050505&hide_border=true&show_icons=true" alt="HewkawAr's Wakatime" height="230"/>
 </div>
 
 <div align="center">
