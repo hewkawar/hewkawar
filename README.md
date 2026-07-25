@@ -1,4 +1,4 @@
-Hi 👋 My name is Tanawat Wangsaeng
+Hi 👋 My name is Thanawat Wangsaeng
 ==================================
 ![Github Views](https://komarev.com/ghpvc/?username=hewkawar)
 ![Github Followers](https://img.shields.io/github/followers/hewkawar?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917)
