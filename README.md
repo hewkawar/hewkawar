@@ -11,7 +11,7 @@ Discord Bot Developer, Full stack Developer
 
 *   🌍  I'm based in Thailand
 *   🖥️  See my portfolio at [hewkawar.xyz](http://hewkawar.xyz)
-*   ✉️  You can contact me at [tanawat@hewkawar.xyz](mailto:tanawat@hewkawar.xyz)
+*   ✉️  You can contact me at [thanawat@hewkawar.xyz](mailto:thanawat@hewkawar.xyz)
 *   🧠  I'm learning NextJs, ReactJs, DiscordJs, TypeScript
 
 Discord Status
